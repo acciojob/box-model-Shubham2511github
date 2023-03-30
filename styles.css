@@ -8,7 +8,7 @@
 	background-color:#D2D4D3;
 
 }
-.container > div{
+.container .group{
 	display:flex;
 	gap:8px;
 	justify-content: center;
